@@ -4,6 +4,7 @@ public class DashboardPage {
 
 	
 	
-	
+	@FindBy(Username = "")
+	WebElement username;
 	
 }
