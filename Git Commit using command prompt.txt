@@ -1,0 +1,24 @@
+Git :
+
+1st we have to initialize our git using command prompt
+
+1. Open command prompt then type "cd " then copy paste our project file location folder , then click on Enter
+
+2. Then initialize project in git using Command "git init"
+
+3. Then add git remote using command "Git Remote add origin <URL of git repository>"
+
+4. Then check the status using command "Git status" 
+
+5. Then add all the files in git using "Git add . "  (IMPORTANT NOTE : Git add . - means we can add complete project or else we can add some particular package or class using like "Gid add Homepage.java" ) 
+
+6. Then check the status again using command "Git status" 
+
+7. Then commit our code in Git using command " Git commit -m " Some messages to commit code in to our git repository, " Give proper comment to commit our code""
+
+8. Then push our code into git using "Git push origin master"  where master is an "Branch name"
+
+9.Git pull origin master - to pull the changes from the git hub
+
+10. Git clone <URL of git repository> , to clone the git repository 
+
